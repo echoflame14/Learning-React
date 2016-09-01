@@ -2,17 +2,17 @@
   "name": "reacttuts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "webpack": "^1.13.2"
-  },
-  "devDependencies": {
     "babel-core": "^6.14.0",
-    "babel-loader": "^6.2.5"
+    "babel-loader": "^6.2.5",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "webpack": "^1.13.2"
   }
 }
